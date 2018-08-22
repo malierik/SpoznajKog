@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_lokacija"
+    android:icon="@drawable/ic_my_location_black_24dp"
+    android:title="Lokacija"
+    ></item>
+
+    <item
+        android:id="@+id/nav_scan"
+        android:icon="@drawable/ic_qrcode_solid"
+        android:title="Skeniraj QR"
+        ></item>
+
+    <item
+        android:id="@+id/nav_nastavitve"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="Nastavitve"
+        ></item>
+</menu>

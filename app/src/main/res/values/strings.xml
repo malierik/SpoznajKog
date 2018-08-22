@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spoznaj Kog</string>
+    <string name="button">Button</string>
+    <string name="update">Update</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="btn_zacnimo">Začnimo</string>
+    <string name="todo">TODO</string>
+    <string name="spoznaj_kog">SPOZNAJ KOG</string>
+</resources>
